@@ -1,6 +1,6 @@
 # 🎮 GeekGalaxy Store - Sistema de Gerenciamento de Vendas 🛍️
 
-![GeekGalaxy Store Banner](https://i.imgur.com/YOUR_BANNER_IMAGE_URL.png) Bem-vindo ao repositório do **GeekGalaxy Store**, um sistema de gerenciamento de vendas completo, projetado como parte do Projeto Integrado Multidisciplinar (PIM VI) para o curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da UNIP! 🚀
+Bem-vindo ao repositório do **GeekGalaxy Store**, um sistema de gerenciamento de vendas completo, projetado como parte do Projeto Integrado Multidisciplinar (PIM VI) para o curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da UNIP! 🚀
 
 Este projeto demonstra a aplicação prática de conceitos de engenharia de software, desde o levantamento de requisitos até a implementação de uma solução funcional com back-end robusto e um front-end desktop interativo.
 
